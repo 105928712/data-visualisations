@@ -1,6 +1,8 @@
 # style.py
 # 2026 Joey Manani & Anchorfish Team
 # Shared chart look for the EDA notebooks; one fixed colour per URL type
+# Based on matplotlib's "Customizing Matplotlib with style sheets and rcParams" guide (setting mpl.rcParams once, up front):
+# https://matplotlib.org/stable/users/explain/customizing.html
 
 import matplotlib as mpl
 
